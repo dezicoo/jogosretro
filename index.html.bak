@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE-edge">
+	<meta name="viweport" content="width=device-width, initial-scale=0.1">
+	<title>Jogos Retro</title>
+	<link rel="icon" type="image/x-icon" href="Pac.png">
+	<link rel="stylesheet" href="jogos retro.css">
+</head>
+<body>
+       <div class="hero">
+	   <nav>
+	   <h2 class="logo">Retro<span> Games</span></h2>
+	   <ul>
+	   <li><a href="#">home</a></li>
+	   <li><a href="#">about</a></li>
+	   <li><a href="#">service</a></li>
+	   <li><a href="#">contact us</a></li>
+	   </ul>
+	   <button type="button">Games</button>
+	   </nav>
+	   </div>
+	   
+	<div class="container">
+	  <div class="pacman"></div>
+	  <div class="pacman-food"></div>
+	  </div>
+	  	
+	      <h1>ATARI</h1>
+		  
+	  <section class= "grid1">
+		<div class="grid1-item">
+		  <img src="ATARI.png">
+			<p>ATARI-2600</p>
+	</div>
+	  <div class="grid1-item">
+			<p>O Atari 2600 Video Computer System é um videogame projetado pelo<br>
+			designer estadunidense Jay Miner e lançado em 11 de setembro de 1977 nos<br>
+			Estados Unidos e em 1983 no Brasil, fabricado pela Polivox. Não era o primeiro<br>
+			videogame doméstico, mas foi o Atari que popularizou essa forma de jogo.<br>
+
+            Considerado um símbolo cultural da década de 1980, o Atari 2600 foi um<br>
+			fenômeno de vendas no Brasil entre os anos de 1984 e 1986. Seus jogos permanecem<br>
+			na memória de muitos que viveram a juventude naquela época.</p>
+			
+	</div>
+	   <div class="grid1-item">
+			<p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa<br>
+			   aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
+	</div>
+	</section>				
+
+
+</body>
+</html>
